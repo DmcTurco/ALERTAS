@@ -48,6 +48,7 @@ C:\Users\moise\Desktop\ALERT\ALERT\obj\Debug\net10.0-windows\ALERT.GeneratedMSBu
 C:\Users\moise\Desktop\ALERT\ALERT\obj\Debug\net10.0-windows\ALERT.AssemblyInfoInputs.cache
 C:\Users\moise\Desktop\ALERT\ALERT\obj\Debug\net10.0-windows\ALERT.AssemblyInfo.cs
 C:\Users\moise\Desktop\ALERT\ALERT\obj\Debug\net10.0-windows\ALERT.csproj.CoreCompileInputs.cache
+C:\Users\moise\Desktop\ALERT\ALERT\obj\Debug\net10.0-windows\ALERT.sourcelink.json
 C:\Users\moise\Desktop\ALERT\ALERT\obj\Debug\net10.0-windows\ALERT.csproj.Up2Date
 C:\Users\moise\Desktop\ALERT\ALERT\obj\Debug\net10.0-windows\ALERT.dll
 C:\Users\moise\Desktop\ALERT\ALERT\obj\Debug\net10.0-windows\refint\ALERT.dll

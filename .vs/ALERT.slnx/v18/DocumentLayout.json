@@ -1,12 +1,61 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\moise\\Desktop\\ALERT\\ALERT\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA625C1-9210-F2F1-05EE-805C823DE762}|ALERT.csproj|c:\\users\\moise\\desktop\\alert\\alert\\formnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA625C1-9210-F2F1-05EE-805C823DE762}|ALERT.csproj|solutionrelative:formnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA625C1-9210-F2F1-05EE-805C823DE762}|ALERT.csproj|c:\\users\\moise\\desktop\\alert\\alert\\formnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA625C1-9210-F2F1-05EE-805C823DE762}|ALERT.csproj|solutionrelative:formnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormNotification.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Desktop\\ALERT\\ALERT\\FormNotification.cs",
+              "RelativeDocumentMoniker": "FormNotification.cs",
+              "ToolTip": "C:\\Users\\moise\\Desktop\\ALERT\\ALERT\\FormNotification.cs",
+              "RelativeToolTip": "FormNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:55:14.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormNotification.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\moise\\Desktop\\ALERT\\ALERT\\FormNotification.cs",
+              "RelativeDocumentMoniker": "FormNotification.cs",
+              "ToolTip": "C:\\Users\\moise\\Desktop\\ALERT\\ALERT\\FormNotification.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormNotification.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T06:44:29.572Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
