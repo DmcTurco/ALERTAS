@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "mcZ2/MMnj+g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moise\\Desktop\\ALERT\\ALERT\\ALERT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moise\\.nuget\\packages\\microsoft.data.sqlite\\10.0.1\\microsoft.data.sqlite.10.0.1.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.1\\microsoft.data.sqlite.core.10.0.1.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\sourcegear.sqlite3\\3.50.4.2\\sourcegear.sqlite3.3.50.4.2.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\3.0.2\\sqlitepclraw.bundle_e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\sqlitepclraw.config.e_sqlite3\\3.0.2\\sqlitepclraw.config.e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\sqlitepclraw.core\\3.0.2\\sqlitepclraw.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.2\\sqlitepclraw.provider.e_sqlite3.3.0.2.nupkg.sha512",
+    "C:\\Users\\moise\\.nuget\\packages\\system.data.sqlite\\2.0.2\\system.data.sqlite.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
